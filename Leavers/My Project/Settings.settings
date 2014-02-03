@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="LDAP_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">174.13.40.1</Value>
+    </Setting>
+    <Setting Name="Homdirs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\dcpcls01\homedirs\</Value>
+    </Setting>
+    <Setting Name="Profile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Dcpcls02\Profiles\Terminal\</Value>
+    </Setting>
+    <Setting Name="appdata_terminal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Dcpcls02\Appdata\Terminal\</Value>
+    </Setting>
+    <Setting Name="appdata_workstation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Dcpcls02\Appdata\Workstation\</Value>
+    </Setting>
+    <Setting Name="appdata_laptop" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\Dcpcls02\Appdata\Laptop\</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Probation2011</Value>
+    </Setting>
+    <Setting Name="LDAP_Path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OU=Users, OU=Devon-Cornwall, OU=OMNI Areas, OU=OMNI, DC=ad, DC=nps, DC=internal</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
